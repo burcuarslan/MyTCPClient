@@ -1,0 +1,9 @@
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\bin\Debug\MyTCPClient.exe.config
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\bin\Debug\MyTCPClient.exe
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\bin\Debug\MyTCPClient.pdb
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\obj\Debug\MyTCPClient.Form1.resources
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\obj\Debug\MyTCPClient.Properties.Resources.resources
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\obj\Debug\MyTCPClient.csproj.GenerateResource.cache
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\obj\Debug\MyTCPClient.csproj.CoreCompileInputs.cache
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\obj\Debug\MyTCPClient.exe
+C:\Users\burcu\Desktop\Uzaktan eğitim\Görsel Programlama Final 3 Proje\MyTCPClient\MyTCPClient\obj\Debug\MyTCPClient.pdb
